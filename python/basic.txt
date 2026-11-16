@@ -1,0 +1,78 @@
+python is caseSensitive
+
+identifier :
+    giving names to variable,fucntion,modules,class etc.. 
+
+Naming Convention:
+
+1. alphabet are allowed (a-z A-Z)
+2. can allow numbers (0-9) but cant start with numbers 
+3. whitespace character is not allowed 
+4. underscore is allowed , can starts with underscore , cannot use special character
+5. cannot allowed to use reserved keywords.
+
+
+first_name 
+_firstname
+firstName
+
+name 
+Name 
+
+
+data types:
+-----------
+
+types of data stored in memory 
+
+1. numeric  - int ,float
+2. sequence 
+3. set 
+4. map 
+5. bool 
+6. binary 
+7. nonetype
+
+
+1. numeric  
+    - int (0-9) +,-    +10 ,-20
+    - float (+ - )
+    - complex (5+7j) 
+
+2. sequence
+    - str - enclosed with single or double quotes
+    - list - hetrogenous data  -> []
+    - tuple - hetrogenous -> ()
+    - range - range(start ,end,step)
+
+3. set 
+    - collection 
+    - enclosed with {}
+    - set()
+
+4. map  - key value pair (dictionary)
+    {k:v,k:v}
+
+5. bool  - True / False 
+
+6. none type -it represent no value 
+
+
+- ordered (get by index position) and unordered 
+- mutable(changeable) immutable (not changeable) 
+
+
+immutable data type : 
+-------------------
+int 
+float
+str 
+tuple 
+bool 
+fronzenset
+
+mutable : 
+--------
+list 
+set 
+dictionary
